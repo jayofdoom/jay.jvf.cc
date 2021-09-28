@@ -1,0 +1,64 @@
+baseUrl: /
+languageCode: en-us
+theme: terminal
+paginate: 5
+
+params:
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName: posts
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor: green
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems: 3
+  # show selector to switch language
+  showLanguageSelector: false
+  # set theme to full screen width
+  fullWidthTheme: true
+  # center theme with default width
+  centerTheme: false
+
+languages:
+  en:
+    languageName: English
+    title: Thoughts from Jay
+    subtitle: Jay Faulkner's Personal Blog
+    keywords: ''
+    menuMore: Show more
+    readMore: Read more
+    readOtherPosts: Read other posts
+
+    params:
+      logo:
+        logoText: jay.jvf.cc
+        logoHomeLink: /
+
+#   menu:
+#      main:
+#      - identifier: about
+#        name: About
+#        url: /about
+#      - identifier: showcase
+#        name: Showcase
+#        url: /showcase
+
+deployment:
+  order: [".jpg$", ".gif$"]
+
+  targets:
+    name: "google jay.jvf.cc"
+    URL: "gs://jay.jvf.cc"
+  
+  matchers:
+    - pattern: "^.+\\.(js|css|svg|ttf)$"
+      cacheControl: "max-age=31536000, no-transform, public"
+      gzip: true
+    - pattern: "^.+\\.(png|jpg)$"
+      cacheControl: "max-age=31536000, no-transform, public"
+      gzip: false
+    - pattern: "^sitemap\\.xml$"
+      contentType: "application/xml"
+      gzip: true
+    - pattern: "^.+\\.(html|xml|json)$"
+      gzip: true
+
+

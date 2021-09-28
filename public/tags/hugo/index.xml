@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on Thoughts from Jay</title>
+    <link>/tags/hugo/</link>
+    <description>Recent content in hugo on Thoughts from Jay</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Sep 2021 02:33:52 -0700</lastBuildDate><atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I&#39;m blogging and using hugo to do it</title>
+      <link>/posts/about-itself/</link>
+      <pubDate>Sun, 26 Sep 2021 02:33:52 -0700</pubDate>
+      
+      <guid>/posts/about-itself/</guid>
+      <description>It&amp;rsquo;s been a long time since I&amp;rsquo;ve posted regularly to the internet &amp;ndash; short or long form. As I get older, I find I don&amp;rsquo;t enjoy publishing in Facebook or Twitter-sized snippets. So I decided to try and start blogging on a longer form again.
+My primary topic will be the various personal projects I&amp;rsquo;ve started working on in the last few years. None of this is to be seen as a review or endorsement of the products or software I&amp;rsquo;ve used.</description>
+      <content>&lt;p&gt;It&amp;rsquo;s been a long time since I&amp;rsquo;ve posted regularly to the internet &amp;ndash; short or long form. As I get older, I find I don&amp;rsquo;t
+enjoy publishing in Facebook or Twitter-sized snippets. So I decided to try and start blogging on a longer form again.&lt;/p&gt;
+&lt;p&gt;My primary topic will be the various personal projects I&amp;rsquo;ve started working on in the last few years. None of this is
+to be seen as a review or endorsement of the products or software I&amp;rsquo;ve used. Some of it was picked nearly at random.
+Such as the static site generator I&amp;rsquo;m using for this, &lt;a href=&#34;https://gohugo.io&#34; title=&#34;gohugo.io&#34;&gt;hugo&lt;/a&gt;. I found it by simply
+Googling for a static site generator in go, and picking the first response on Google. It&amp;rsquo;s been so easy I&amp;rsquo;ve never
+thought of trying anything else.&lt;/p&gt;
+&lt;p&gt;First, why a static site generator? One of my goals was to make sure my blog would be near-zero upkeep outside
+of writing new posts. My previous experience with the main &lt;a href=&#34;http://oldos.org&#34; title=&#34;OldOs.org&#34;&gt;oldos.org&lt;/a&gt; website taught me
+that dynamic blogging/wiki software means either ignoring blatant software vulnerabilities or signing up for a nightmare
+of maintenance. Part of why I stopped updating that site is because the software running it, PMWiki, was too heavily
+modified by my custom theme to easily apply security updates. It runs today as a static archive on Google Sites &amp;ndash; part
+of why it&amp;rsquo;s no longer maintained. I&amp;rsquo;m using these lessons to guide how I set up this blog &amp;ndash; perhaps in the future I
+could even adapt oldos.org&amp;rsquo;s theme to use hugo and migrate the content.&lt;/p&gt;
+&lt;p&gt;Hugo was pleasantly simple to get going &amp;ndash; there was an ebuild available for it with Gentoo which I installed, then I
+followed the &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34; title=&#34;Hugo Quick Start&#34;&gt;hugo quick start&lt;/a&gt;, found a
+&lt;a href=&#34;https://themes.gohugo.io/&#34; title=&#34;Hugo Themes&#34;&gt;theme&lt;/a&gt;, and I was up and running in a few minutes. I found and installed the
+IDEA plugin for hugo, which manages the hugo server for me, and now I&amp;rsquo;m watching it open in my browser updating live
+each time it saves.&lt;/p&gt;
+&lt;p&gt;I can also at a later point add more static pages &amp;ndash; I would expect this to become the permanent home of my resume, for
+instance. For now, I&amp;rsquo;m happy it allows me to publish this site without having to have a menu or alternate pages at all.
+That means I was able to go from zero to having this post drafted in less than ninety minutes. This kind of low-friction
+blogging is the only way I&amp;rsquo;ll be able to keep this updated regularly.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m going to save this draft, revise it, then get hosting setup. My next post will detail how I&amp;rsquo;m hosting it! Other
+topics you can expect to come up  as I get through them may include &amp;ldquo;Why I run Gentoo&amp;rdquo;, &amp;ldquo;My home router setup&amp;rdquo;, and a
+whole series of posts on my  experiences with Home Assistant, and the journey I&amp;rsquo;m undergoing to smartify my home.&lt;/p&gt;
+&lt;p&gt;Thanks for reading,&lt;/p&gt;
+&lt;p&gt;Jay&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
