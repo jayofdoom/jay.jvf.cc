@@ -32,14 +32,14 @@ languages:
         logoText: jay.jvf.cc
         logoHomeLink: /
 
-#   menu:
-#      main:
-#      - identifier: about
-#        name: About
-#        url: /about
-#      - identifier: showcase
-#        name: Showcase
-#        url: /showcase
+menu:
+  main:
+  - identifier: about
+    name: About Jay
+    url: /about
+  - identifier: colophon
+    name: Colophon
+    url: /colophon
 
 deployment:
   order: [".jpg$", ".gif$"]

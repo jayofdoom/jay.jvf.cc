@@ -8,6 +8,50 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Sep 2021 02:33:52 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 27 Sep 2021 20:26:19 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I am Jay Faulkner.
+I&amp;rsquo;ve been in the tech industry since 2006, working up from a Junior Systems Admin to my current job as a Staff Software Engineer. You may know me from my work on OpenStack Ironic, which I used and contributed to for several years of my career. Currently, I&amp;rsquo;m working on the Advanced Server Access team at Okta. Please note this blog represents my opinions, and I do not speak for my employer.</description>
+      <content>&lt;p&gt;I am Jay Faulkner.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/jay-with-cup.jpg&#34; alt=&#34;Picture of me with the Stanley Cup&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve been in the tech industry since 2006, working up from a Junior Systems Admin to my current job as a Staff Software
+Engineer. You may know me from my work on &lt;a href=&#34;http://ironicbaremetal.org/&#34;&gt;OpenStack Ironic&lt;/a&gt;, which I used and contributed
+to for several years of my career. Currently, I&amp;rsquo;m working on the Advanced Server Access team at Okta. Please note this
+blog represents my opinions, and I do not speak for my employer.&lt;/p&gt;
+&lt;p&gt;One of my primary passions outside of work is hockey, specifically Seattle Kraken (NHL) and Seattle Thunderbirds (WHL).
+I also enjoy video games, and sometimes streaming them on twitch as &lt;a href=&#34;https://twitch.tv/tastymcrib&#34;&gt;TastyMcRib&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you enjoy my blog, let me know! I can be reached several ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/jayofdoom&#34;&gt;@jayofdoom on Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/jayfaulkner/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;JayF on &lt;a href=&#34;https://libera.chat&#34;&gt;libera.chat&lt;/a&gt; and &lt;a href=&#34;https://www.oftc.net&#34;&gt;OFTC&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Colophon</title>
+      <link>/colophon/</link>
+      <pubDate>Mon, 27 Sep 2021 20:17:37 -0700</pubDate>
+      
+      <guid>/colophon/</guid>
+      <description>My blog, jay.jvf.cc, is built using Hugo framework with a lightly modified version of the Terminal theme by panr. Once built, it is hosted on Google Cloud.
+For more information see:
+ About Itself  </description>
+      <content>&lt;p&gt;My blog, jay.jvf.cc, is built using &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; framework with a lightly modified version of the
+&lt;a href=&#34;https://github.com/panr/hugo-theme-terminal&#34;&gt;Terminal&lt;/a&gt; theme by &lt;a href=&#34;https://twitter.com/panr&#34;&gt;panr&lt;/a&gt;. Once built, it is
+hosted on Google Cloud.&lt;/p&gt;
+&lt;p&gt;For more information see:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/posts/about-itself/&#34; title=&#34;About Itself&#34;&gt;About Itself&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
       <title>Why I&#39;m blogging and using hugo to do it</title>
       <link>/posts/about-itself/</link>
       <pubDate>Sun, 26 Sep 2021 02:33:52 -0700</pubDate>
