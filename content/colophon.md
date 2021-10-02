@@ -6,7 +6,7 @@ draft: false
 
 My blog, jay.jvf.cc, is built using [Hugo](https://gohugo.io) framework with a lightly modified version of the
 [Terminal](https://github.com/panr/hugo-theme-terminal) theme by [panr](https://twitter.com/panr). Once built, it is
-hosted on Google Cloud.
+hosted on Google Cloud and fronted with Cloudflare for HTTPS termination.
 
 For more information see:
   - [About Itself]({{< ref "/posts/about-itself">}} "About Itself")
