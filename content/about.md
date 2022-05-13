@@ -18,4 +18,5 @@ I also enjoy video games, and sometimes streaming them on twitch as [TastyMcRib]
 If you enjoy my blog, let me know! I can be reached several ways:
   - [@jayofdoom on Twitter](https://twitter.com/jayofdoom)
   - [LinkedIn](https://www.linkedin.com/in/jayfaulkner/)
-  - JayF on [libera.chat](https://libera.chat) and [OFTC](https://www.oftc.net)
+  - #jayf on [libera.chat](https://libera.chat)
+  - Various channels as "JayF" on [OFTC](https://www.oftc.net)
