@@ -37,6 +37,9 @@ menu:
   - identifier: about
     name: About Jay
     url: /about
+  - identifier: portfolio
+    name: Open Source Contributions
+    url: /portfolio
   - identifier: colophon
     name: Colophon
     url: /colophon
