@@ -37,6 +37,9 @@ menu:
   - identifier: about
     name: About Jay
     url: /about
+  - identifier: officehours
+    name: Office Hours
+    url: /officehours
   - identifier: colophon
     name: Colophon
     url: /colophon
