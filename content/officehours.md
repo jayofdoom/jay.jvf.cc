@@ -25,7 +25,7 @@ advance of an office hours session. If these get a lot of participation, or
 if I find it a useful tool to get things done; I'll post and maintain a regular
 schedule for office hours.
 
-Let me know what you think of this idea! You can find me in ##jayf on Libera,
+Let me know what you think of this idea! You can find me in #jayf on Libera,
 on Twitter, or the various open source chat rooms I can be found in (usually
 as "JayF").
 
