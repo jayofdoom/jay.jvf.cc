@@ -9,13 +9,14 @@ params:
   # ["orange", "blue", "red", "green", "pink"]
   themeColor: green
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems: 3
+  showMenuItems: 5
   # show selector to switch language
   showLanguageSelector: false
   # set theme to full screen width
   fullWidthTheme: true
   # center theme with default width
   centerTheme: false
+  sectionPagesMenu: posts
 
 languages:
   en:
@@ -34,15 +35,41 @@ languages:
 
 menu:
   main:
-  - identifier: about
-    name: About Jay
-    url: /about
   - identifier: officehours
     name: Office Hours
     url: /officehours
-  - identifier: colophon
-    name: Colophon
-    url: /colophon
+    weight: 97
+  - identifier: about
+    name: About Jay
+    url: /about
+    weight: 98
+  - identifier: socials
+    name: Find me at...
+  - identifier: fosstodon
+    name: https://fosstodon.org/@JayF
+    url: https://fosstodon.org/@JayF
+    parent: socials
+    weight: 1
+  - identifier: youtube
+    name: YouTube.com/jayofdoom
+    url: https://www.youtube.com/jayofdoom
+    parent: socials
+    weight: 2
+  - identifier: Linkedin
+    name: LinkedIn.com/in/jayfaulkner
+    url: https://www.linkedin.com/in/jayfaulkner
+    parent: socials
+    weight: 3
+  - identifier: twitter
+    name: twitter.com/jayofdoom
+    url: https://twitter.com/jayofdoom
+    parent: socials
+    weight: 10
+  - identifier: email
+    name: 'jay at jvf dot cc (email)'
+    url: mailto:jay-at-jvf-cc
+    parent: socials
+    weight: 99
 
 deployment:
   order: [".jpg$", ".gif$"]

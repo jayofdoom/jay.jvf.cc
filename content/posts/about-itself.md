@@ -6,6 +6,7 @@ authorTwitter = "jayofdoom"
 #cover = "What I plan to talk about here, and how it works"
 tags = ["blog", "hugo", "golang"]
 keywords = ["blog", "hugo", "golang", "cloud", "google"]
+parent = "posts"
 description = "Why I'm blogging and using hugo to do it"
 showFullContent = false
 +++

@@ -6,6 +6,7 @@ authorTwitter = "jayofdoom"
 #cover = "What I plan to talk about here, and how it works"
 tags = ["blog", "google cloud", "cloudflare" ]
 keywords = ["blog", "cloud", "google"]
+parent = "posts"
 description = "How I'm hosting this blog"
 showFullContent = false
 +++
