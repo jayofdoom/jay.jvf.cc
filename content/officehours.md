@@ -25,8 +25,8 @@ while talking through it. Some topics will include:
 - Writing documentation or blog posts
 
 I'm going to be holding these sessions on the following rough schedule.
-- Every Tuesday 8am-9am PDT (1500-1600 UTC)
-- Every Thursday 3pm-4pm PDT (2200-2300 UTC)
+- Every Tuesday 8am-9am PDT (1600-1700 UTC)
+- Every Thursday 3pm-4pm PDT (2300-2400 UTC)
 
 See the calendar below for any exceptions:
 
