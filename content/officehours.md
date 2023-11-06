@@ -3,6 +3,11 @@ title: "Office Hours / Live Coding"
 date: 2022-11-04T08:26:19-07:00
 draft: false
 ---
+Office Hours have been discontinued due to lack of interest. Stay tuned for
+more information, coming soon, about a new project I'm working on.
+
+The below information is left for historical purposes.
+
 Working remotely on open source can make it difficult to connect with people,
 to get those impromptu mentoring or pair programming sessions that can happen
 in passing. This is one thing I've personally missed about working in an office

@@ -35,9 +35,9 @@ languages:
 
 menu:
   main:
-  - identifier: officehours
-    name: Office Hours
-    url: /officehours
+  - identifier: publications
+    name: Publications/Talks
+    url: /publications
     weight: 97
   - identifier: about
     name: About Jay
@@ -45,9 +45,9 @@ menu:
     weight: 98
   - identifier: socials
     name: Find me at...
-  - identifier: fosstodon
-    name: https://fosstodon.org/@JayF
-    url: https://fosstodon.org/@JayF
+  - identifier: mastodon
+    name: https://oldos.me/@Jay
+    url: https://oldos.me/@Jay
     parent: socials
     weight: 1
   - identifier: youtube
@@ -60,11 +60,6 @@ menu:
     url: https://www.linkedin.com/in/jayfaulkner
     parent: socials
     weight: 3
-  - identifier: twitter
-    name: twitter.com/jayofdoom
-    url: https://twitter.com/jayofdoom
-    parent: socials
-    weight: 10
   - identifier: email
     name: 'jay at jvf dot cc (email)'
     url: mailto:jay-at-jvf-cc

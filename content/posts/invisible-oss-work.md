@@ -1,10 +1,11 @@
 +++
 title = "Invisible Work of OpenStack blog series"
-date = "2022-12-01T12:51:52-07:00"
+date = "2023-11-06T08:51:52-07:00"
 author = "Jay Faulkner"
 authorTwitter = "jayofdoom" 
-tags = ["blog", "g-research", "openstack" ]
-keywords = ["blog", "g-research", "openstack" ]
+tags = ["blog", "g-research", "openstack"]
+keywords = ["blog", "g-research", "openstack"]
+parent = "posts"
 description = "A blog series I'm doing for work"
 showFullContent = false
 +++
@@ -16,6 +17,8 @@ it looks like they're going to be published over at the
 up to date with links to the posts as they are published.
 
 Invisible Work of OpenStack series:
-  * [Invisible work of OpenStack: Security Bugs](https://www.gresearch.co.uk/blog/article/invisible-work-of-openstack-security-bugs/)
+  * [Invisible work of OpenStack: Testing Matrices](https://www.gresearch.com/blog/article/invisible-work-of-openstack-testing-matrices/)
+  * [Invisible work of OpenStack: Security Bugs](https://www.gresearch.com/blog/article/invisible-work-of-openstack-security-bugs/)
 
-I think my next topic will be CI testing -- stay tuned!
+Other blogposts written for G-Research:
+  * [Armada: Six Months in the Sandbox](https://www.gresearch.com/blog/article/armada-six-months-in-the-sandbox/)

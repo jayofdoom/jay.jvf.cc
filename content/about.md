@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2021-09-27T20:26:19-07:00
+date: 2023-11-06T00:26:19-07:00
 draft: false
 ---
 I am Jay Faulkner, an Open Source Developer and Advocate. I believe that
@@ -14,12 +14,10 @@ open source ecosystems they rely on remain healthy long term.
 
 Web Presence
 ============
-- [Fosstodon - @JayF](https://fosstodon.org/web/@JayF)
-- [Twitter - @jayofdoom](https://twitter.com/jayofdoom)
+- [Mastodon - @Jay@oldos.me](https://oldos.me/@Jay)
 - [LinkedIN - https://www.linkedin.com/in/jayfaulkner](https://www.linkedin.com/in/jayfaulkner)
 - [Github - https://github.com/jayofdoom](https://github.com/jayofdoom)
 - [Gitlab - https://gitlab.com/jayofdoom](https://gitlab.com/jayofdoom)
-- [Twitch - https://twitch.tv/TastyMcRib](https://twitch.tv/TastyMcRib)
 
 Projects I Work On
 ==================
@@ -47,10 +45,6 @@ Armada
 [Armada](https://armadaproject.io) is a kubernetes batch meta-scheduler
 currently in the CNCF sandbox. It's used at extreme scale to schedule and
 manage jobs across multiple kubernetes clusters.
-
-I have only recently begun working on Armada, and have been focusing primarily
-on continuous integration, client code, and developer outreach. I spent
-approximately 1/5 of my full time job contributing to Armada.
 
 Armada has opened the door to a separate cloud world altogether -- CNCF and
 kubernetes. It's been interesting to see some of the similarities and
