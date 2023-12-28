@@ -38,8 +38,9 @@ linters and `.gitignore` files while also keeping it alongside the code.
 The initial setup will default to pulling in your `requirements.txt` packages,
 however for Ironic and most other OpenStack projects, there are additional
 packages to install for testing and optional features. So I open the built-in
-terminal, which has a `(pycharmvenv)` because it was already activated. Inside
-this environment, I installed the remaining requirements:
+terminal, which has a in the prompt `(pycharmvenv)` because it activated our
+environment automatically. Inside this environment, I installed the remaining
+requirements:
 `pip install -r test-requirements.txt -r driver-requirements.txt`. 
 
 At this point have PyCharm is configured for Ironic, with all needed libraries
