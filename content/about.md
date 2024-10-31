@@ -11,7 +11,9 @@ My current employer, the
 [G-Research Open Source Software team](https://github.com/G-Research)
 (GR-OSS), believes that and enables me to work on open source software to
 help ensure that the open source ecosystems they rely on remain healthy long
-term. I host the [GR-OSS OUT](https://podcast.gr-oss.io) podcast, where we
+term.
+
+I host the [GR-OSS OUT](https://podcast.gr-oss.io) podcast, where we
 talk about OSS projects and investments G-Research is making. You can also
 find that in video form, as well as other video content from me about OSS,
 on the [GR-OSS Youtube channel](https://youtube.com/@oss-gr).
