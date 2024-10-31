@@ -8,9 +8,13 @@ through working with others around the world to solve problems we can make
 the world better. Open source is a great way to do that.
 
 My current employer, the
-[G-Research Open Source Software team](https://github.com/G-Research), believes
-that and enables me to work on open source software to help ensure that the
-open source ecosystems they rely on remain healthy long term.
+[G-Research Open Source Software team](https://github.com/G-Research)
+(GR-OSS), believes that and enables me to work on open source software to
+help ensure that the open source ecosystems they rely on remain healthy long
+term. I host the [GR-OSS OUT](https://podcast.gr-oss.io) podcast, where we
+talk about OSS projects and investments G-Research is making. You can also
+find that in video form, as well as other video content from me about OSS,
+on the [GR-OSS Youtube channel](https://youtube.com/@oss-gr).
 
 Web Presence
 ============
@@ -28,8 +32,9 @@ Ironic
 computing platform. I've been working on [Ironic](https://ironicbaremetal.org),
 a component that plugs into OpenStack -- or can be used standalone -- to
 provision real, physical hardware as easily as one can provision VMs. I
-currently serve as a member of the OpenStack Technical Committee and as
-Project Team Lead for OpenStack Ironic.
+have served two one-year teams (2023, 2024) on the OpenStack Technical Committee
+including one six-month term as chair. I have served three terms
+(zed, 2023.1, 2023.2) as Project Team Lead for OpenStack Ironic.
 
 I've been a working on Ironic since the icehouse cycle (2014), and have been
 active in code review and development of the project since then. Ironic remains
@@ -39,16 +44,6 @@ time focus.
 Ironic is an incredibly impressive piece of software, and I'm very proud of
 how far it's come in the years I've worked on it. It'll be fun to see where
 the future leads.
-
-Armada
-------
-[Armada](https://armadaproject.io) is a kubernetes batch meta-scheduler
-currently in the CNCF sandbox. It's used at extreme scale to schedule and
-manage jobs across multiple kubernetes clusters.
-
-Armada has opened the door to a separate cloud world altogether -- CNCF and
-kubernetes. It's been interesting to see some of the similarities and
-differences between the tooling and community around it compared to OpenStack.
 
 Gentoo
 ------
@@ -60,8 +55,8 @@ years. Now, it's the primary OS on most computers I run.
 I do Gentoo on my own time, cleaning up and helping proxy-maintain ebuilds
 across the main Gentoo repo and a handful of overlays. I'm also a regular
 presence on several Gentoo-related channels on IRC. Come find me there as
-nickname JayF or JasonF. I hope to ramp up my contribution to Gentoo and
-remain a long-term presence in the community.
+nickname JayF or JasonF. I am currently on track to become a Gentoo developer
+in the coming months.
 
 Working with Gentoo has enabled me to make small contributions to a myriad of
 open source projects -- mostly minor build fixes. I always enjoy working with
