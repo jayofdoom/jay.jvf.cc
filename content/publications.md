@@ -1,6 +1,6 @@
 ---
 title: "Things I've Published and Talks I've Given"
-date: 2023-11-06T08:26:19-07:00
+date: 2023-12-10T00:00:00-00:00
 draft: false
 ---
 I've been lucky to have the opportunity in my career to speak at conferences
@@ -9,10 +9,11 @@ and to have my writing published in many written and digital publications.
 If you're interested in having me speak at your conference, or write for your
 publication, please reach out to me. 
 
-
 ## Conference Talks/Trainings
 | Date       | Title                                                                                                                            | Conference                  | Video                                                         | Slides                                                                                        |
 |------------|----------------------------------------------------------------------------------------------------------------------------------|-----------------------------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| 2025-03-06 | OpenStack in the Real World                                                                                                      | SCALE 22x / OpenInfra Days  | | |
+| 2024-06-04 | [Open Infrastructure: From Monumental to Mundane and Back Again ](https://videos.cern.ch/record/2300350)                         | OpenInfra Days 2024, CERN   | [video](https://www.youtube.com/watch?v=tGE5T4A-fgc&t=17500s) | [slides](https://docs.google.com/presentation/d/1klttcmp-7fHBVvWRlc2Ro79QpvD-LgKtRj1U6fFTyg0) |
 | 2023-11-04 | [Trust in an Open Source Community](https://osem.seagl.org/conferences/seagl2023/program/proposals/984)                          | SeaGL 2023                  | [video](https://www.youtube.com/watch?v=tGE5T4A-fgc&t=17500s) | [slides](https://docs.google.com/presentation/d/1UYrIYX9E1cRlzvQyTetcqJFp9XDvasD3C0BV08FtOHU) |
 | 2023-03-11 | [Death of Hardware Knowledge](https://www.socallinuxexpo.org/scale/20x/presentations/death-hardware-knowledge)                   | SCALE 20x                   | [video](https://www.youtube.com/watch?v=-9SjVINjHUM)          | [slides](https://docs.google.com/presentation/d/1n2dr94zAXD9NuxBtFtnojuiRsEyWVKCoJB6PwXJh-JE) |
 | 2015-05-20 | Don't Just Consume; Participate! Operators and the Community                                                                     | OpenStack Summit            | [video](https://www.youtube.com/watch?v=mFbpf1dpzNY)          | N/A                                                                                           |
@@ -36,6 +37,7 @@ publication, please reach out to me.
 | 2000-2003 | (multiple weekly)        | Spring Hope Enterprise | Worked for years; ending as Sports Editor |
 
 ## Other Projects/Media
-| Date(s)             | Description                              |
-|---------------------|------------------------------------------|
+| Date(s)             | Description                                     |
+|---------------------|-------------------------------------------------|
+| May 2024 - Current  | [GR-OSS OUT Podcast (audio)](https://podcast.gr-oss.io), [(video)](https://www.youtube.com/playlist?list=PLNWn4-IA6Bx4lokN21n2tLljM1WlqM6JP) |
 | Oct 2022 - Mar 2023 | [Open Source Office Hours](/officehours) |

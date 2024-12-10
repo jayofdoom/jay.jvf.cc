@@ -20,15 +20,15 @@ params:
 
 languages:
   en:
-    languageName: English
-    title: Thoughts from Jay
-    subtitle: Jay Faulkner's Personal Blog
-    keywords: ''
-    menuMore: Show more
-    readMore: Read more
-    readOtherPosts: Read other posts
-
     params:
+      languageName: English
+      title: Thoughts from Jay
+      subtitle: Jay Faulkner's Personal Blog
+      keywords: ''
+      menuMore: Show more
+      readMore: Read more
+      readOtherPosts: Read other posts
+
       logo:
         logoText: jay.jvf.cc
         logoHomeLink: /
