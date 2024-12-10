@@ -4,8 +4,8 @@ date = "2024-12-10T16:20:00-00:00"
 author = "Jay Faulkner"
 authorTwitter = "jayofdoom" 
 #cover = "What I plan to talk about here, and how it works"
-tags = ["ubuntu", "openstack", "images", "diskimage-builder", "ironic"]
-keywords = ["ubuntu", "openstack", "images", "diskimage-builder", "ironic"]
+tags = ["ubuntu-minimal", "openstack", "images", "diskimage-builder", "ironic"]
+keywords = ["ubuntu-minimal", "openstack", "images", "diskimage-builder", "ironic"]
 parent = "posts"
 description = "No more long command line calls to dib..."
 showFullContent = false
@@ -42,8 +42,10 @@ In the simpliest terms possible; you can convert this command::
 ```
     # DIB_DEV_USER_USERNAME=jay DIB_DEV_USER_PWDLESS_SUDO=1 \
       DIB_DEV_USER_AUTHORIZED_KEYS=/home/jay/authorized-keys-dib \
-      DIB_RELEASE=noble disk-image-create -a amd64 -o devstack-noble.qcow2 \
-      -p kitty-terminfo vm ubuntu block-device-efi devuser openssh-server \
+      DIB_RELEASE=noble DIB_UBUNTU_KERNEL=linux-image-kvm \
+      disk-image-create -a amd64 -o devstack-noble.qcow2 -p kitty-terminfo \
+      -p iptables -p iputils-ping -p tmux -p vim-scripts \
+      vm ubuntu-minimal block-device-efi devuser openssh-server growroot \
       simple-init
 ```
 
@@ -56,18 +58,24 @@ Into this command and configuration file combo::
       arch: amd64
       elements:
         - vm
-        - ubuntu
+        - ubuntu-minimal
         - block-device-efi
         - devuser
         - openssh-server
+        - growroot
         - simple-init
       environment:
         DIB_DEV_USER_USERNAME: jay
         DIB_DEV_USER_PWDLESS_SUDO: "1"
         DIB_DEV_USER_AUTHORIZED_KEYS: /home/jay/authorized-keys-dib
         DIB_RELEASE: noble
+        DIB_UBUNTU_KERNEL: linux-image-kvm
       packages:
         - kitty-terminfo
+        - iptables
+        - iputils-ping
+        - tmux
+        - vim-scripts
 ```
 
 I think the advantages are obvious -- it's much simpler (at least to me) to
