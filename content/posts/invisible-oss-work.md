@@ -1,6 +1,6 @@
 +++
 title = "Invisible Work of OpenStack blog series"
-date = "2023-11-06T08:51:52-07:00"
+date = "2025-03-25T08:51:52-07:00"
 author = "Jay Faulkner"
 authorTwitter = "jayofdoom" 
 tags = ["blog", "g-research", "openstack"]
@@ -17,6 +17,7 @@ it looks like they're going to be published over at the
 up to date with links to the posts as they are published.
 
 Invisible Work of OpenStack series:
+  * [Invisible work of OpenStack: Eventlet Migration](https://www.gresearch.com/news/invisible-work-of-openstack-eventlet-migration/) (New!)
   * [Invisible work of OpenStack: Testing Matrices](https://www.gresearch.com/blog/article/invisible-work-of-openstack-testing-matrices/)
   * [Invisible work of OpenStack: Security Bugs](https://www.gresearch.com/blog/article/invisible-work-of-openstack-security-bugs/)
 

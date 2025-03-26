@@ -1,7 +1,8 @@
 baseUrl: https://jay.jvf.cc/
 languageCode: en-us
 theme: terminal
-paginate: 5
+pagination:
+  pagerSize: 5
 
 params:
   # dir name of your blog content (default is `content/posts`)

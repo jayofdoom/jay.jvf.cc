@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2023-11-06T00:26:19-07:00
+date: 2025-03-20T00:26:19-07:00
 draft: false
 ---
 I am Jay Faulkner, an Open Source Developer and Advocate. I believe that
@@ -21,6 +21,7 @@ on the [GR-OSS Youtube channel](https://youtube.com/@oss-gr).
 Web Presence
 ============
 - [Mastodon - @Jay@oldos.me](https://oldos.me/@Jay)
+- [Bluesky - @jay.oldos.me](https://bsky.app/profile/jay.oldos.me)
 - [LinkedIN - https://www.linkedin.com/in/jayfaulkner](https://www.linkedin.com/in/jayfaulkner)
 - [Github - https://github.com/jayofdoom](https://github.com/jayofdoom)
 - [Gitlab - https://gitlab.com/jayofdoom](https://gitlab.com/jayofdoom)
@@ -54,11 +55,11 @@ focuses on building the system from source. Gentoo linux is the tool I used to
 learn about open source and linux, and I've used it off and on for over 15
 years. Now, it's the primary OS on most computers I run.
 
-I do Gentoo on my own time, cleaning up and helping proxy-maintain ebuilds
-across the main Gentoo repo and a handful of overlays. I'm also a regular
-presence on several Gentoo-related channels on IRC. Come find me there as
-nickname JayF or JasonF. I am currently on track to become a Gentoo developer
-in the coming months.
+I am a Gentoo developer and member of the 
+[Proxy Maintainers](https://wiki.gentoo.org/wiki/Project:Proxy_Maintainers)
+and [Python](https://wiki.gentoo.org/wiki/Project:Python) projects.
+I'm also a regular presence on several Gentoo-related channels on
+[Libera](https://libera.chat) IRC. Come find me there as nickname JayF or JasonF.
 
 Working with Gentoo has enabled me to make small contributions to a myriad of
 open source projects -- mostly minor build fixes. I always enjoy working with
