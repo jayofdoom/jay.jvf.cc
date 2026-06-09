@@ -150,7 +150,7 @@ new truck to give us a concrete example. For fun I'm going to add my wife's Hond
 | 2023 Ford F-150 Lightning   | 2.0 mi/kWh | $0.091/kWh   | $0.55/kWh    | 98 kWh   | 2.0 mi/kWh x 98 kWh = 196 miles |
 | 2016 Honda Civic EX         | 35 MPG     | $5.50/gal    | $5.50/gal    | 12.4 gal | 12.4 gal x 35 MPG   = 434 miles |
 
-![Charger screen with text: Unplug vehicle. Charge complete. Idle time starts in 09:51. Total kWh 40.5607. Session total $23.53](/images/rivian-smaller.jpg)
+![F-150 Lightning charging at an evGO. This was actually from a trip to Mt St Helens.](/images/charging-small.jpg)
 
 Now -- a note here for something that bamboozled me when buying my truck. Luckily for my use case it doesn't matter
 but it may for yours. Just like you might not run a gas tank down to "E", most EV drivers won't take their EV below
@@ -174,7 +174,7 @@ sensitive, you could get cheaper rates and use less DCFC overall to get out chea
 at home -- it's so cheap. DCFC prices usually end up cheaper for "like for like" vehicles, but the Lightning is
 a giant truck, and while it may be battery powered, it's still inefficient.
 
-![F-150 Lightning charging at an evGO. This was actually from a trip to Mt St Helens.](/images/charging-small.jpg)
+![Charger screen with text: Unplug vehicle. Charge complete. Idle time starts in 09:51. Total kWh 40.5607. Session total $23.53](/images/rivian-smaller.jpg)
 
 # Future Plans
 
