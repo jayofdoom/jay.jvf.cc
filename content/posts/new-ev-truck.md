@@ -210,5 +210,8 @@ There are some creators and websites I've started using to research about this. 
 
 # Revisions
 
-2026-06-08: Added photos and minor formatting fixes.
-2026-06-06: Initial version.
+| Version | Date | Description |
+| ------- | ---- | ----------- |
+| 1 | 2026-06-08 | Added photos and minor formatting fixes. |
+| 2 | 2026-06-06 | Initial version. |
+
