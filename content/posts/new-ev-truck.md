@@ -20,7 +20,7 @@ This may also be an attempt to stop driving Vanessa crazy with sentences startin
 
 How did I end up with the Lightning? Well, I've wanted an EV for a long time, but have found myself generally unhappy
 with the options on the market. I like having a truck because I use the space for my weekly deliveries for the 
-[EFN](https://efoodnet.org) and the bed is nice for being able to move around larger items.
+[Emergency Food Network](https://efoodnet.org) and the bed is nice for being able to move around larger items.
 
 My previous vehicle was a 2020 Toyota Tacoma with ~26,000 miles. I knew, when I bought it, I wouldn't replace it
 unless it was with an EV. The Tacoma is a great gas truck. In fact, the ability to hold its value enabled this
