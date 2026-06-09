@@ -9,7 +9,7 @@ parent = "posts"
 description = "My F-150 Lightning and EVs in General"
 showFullContent = false
 +++
-So I recently got a new vehicle: an 2023 F-150 Lightning. This may look like a review, but it's more like a brain
+So I recently got a new vehicle: an F-150 Lightning. This may look like a review, but it's more like a brain
 dump of all the things that have been bouncing around my head about it in the last few months.
 
 This may also be an attempt to stop driving Vanessa crazy with sentences starting with "My truck..." :).
