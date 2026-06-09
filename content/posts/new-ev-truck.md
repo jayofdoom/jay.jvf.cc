@@ -69,7 +69,7 @@ lot. I decided to give it another chance and take it on another drive. After ref
 get used to the large size of the vehicle and appreciate the comfort of the larger interior. The specific truck
 I ended up with was a 2023 F-150 Lightning Lariat with 15.5k miles and 98% battery state of health.
 
-![truck parked on a concrete driveway partially in a hole that needs more gravel](images/parked-small.jpg)
+![truck parked on a concrete driveway partially in a hole that needs more gravel](/images/parked-small.jpg)
 
 Ford being a traditional car company that committed to 10 years of parts and support made me not worry about the
 cancellation of the Lightning line. By that point, I had seen videos of service done to them and was convinced that,
