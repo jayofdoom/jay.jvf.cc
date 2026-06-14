@@ -59,8 +59,8 @@ I took it on a test drive and found out I didn't like it very much. It's slightl
 F-150 Lightning, but the interior felt significantly smaller. There were a lot of minor things which I didn't like
 including something as simple and important as the handle by the door -- on the Rivian, it is on the headliner above
 the door, which made it useless for my small wife to use to help get into the truck. I liked the truck okay, but it
-wasn't ideal. I ended up a low-ball offer on the truck which was rejected as expected. I'm glad they didn't accept
-it.
+wasn't ideal. I ended up making a low-ball offer on the truck which was rejected as expected. I'm glad they didn't
+accept it.
 
 Next, I looked at a Lightning. I had test driven one before the Rivian, and really appreciated the interior. It was
 spacious and comfortable, and lots of storage space -- especially with the rear seats folded up. That test drive
@@ -212,6 +212,6 @@ There are some creators and websites I've started using to research about this. 
 
 | Version | Date | Description |
 | ------- | ---- | ----------- |
-| 1 | 2026-06-08 | Added photos and minor formatting fixes. |
-| 2 | 2026-06-06 | Initial version. |
+| 2 | 2026-06-08 | Added photos and minor formatting fixes. |
+| 1 | 2026-06-06 | Initial version. |
 
